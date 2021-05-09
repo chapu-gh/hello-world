@@ -1,4 +1,4 @@
 # hello-world
-Repositorio de prueba
+## Repositorio de prueba
 
 En la asignatura de *ALF* utilizamos **Python**
